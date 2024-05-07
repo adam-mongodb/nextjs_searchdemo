@@ -66,13 +66,15 @@ const HomePage = () => {
 
   return (
     <>
-      <h1>Welcome to Movie Search</h1>
+      <h2 className="logo">Welcome to Movie Search</h2>
+      {/* <h3>Search Movies</h3> */}
       <div className='card'>
         <TextSearch fetchSearchMovies={fetchSearchMovies}/>
       </div>
       <div className='card'>
         <VectorSearch fetchVectorSearchMovies={fetchVectorSearchMovies}/>
       </div>
+      <h3 className="logo">Results</h3>
       <Movies movies={movies} />
     </>
   )

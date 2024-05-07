@@ -1,0 +1,26 @@
+{
+    "name": "Movie Search App",
+    "repo": "https://github.com/adam-mongodb/nextjs_searchdemo",
+    "private": false,
+    "goals": [
+        "Get hands-on with MongoDB Atlas, and App Services", 
+        "Better understand Atlas Search, and Vector Search"
+    ],
+    "takeaways": [
+        {
+            "id": 1, 
+            "title": "Relevance-based Search vs Semantic Search", 
+            "description": "Relevance-based search returns results explicitly containing search term, whereas semantic search will return data similar in meaning."
+        },
+        {
+            "id": 2, 
+            "title": "NLP layer for 'free' in Vector Search", 
+            "description": "We are retrieving embeddings but LLMs inherently have an NLP layer built-in for chatbot use cases (not just RAG). NLP layers are complex to build"
+        },
+        {
+            "id": 3, 
+            "title": "Serverless functions: Take the good with the bad", 
+            "description": "Debugability is poor (debug locally as workaround) but an expected rigidity when dealing with serverless services. On par with lambda"
+        }
+    ]
+}

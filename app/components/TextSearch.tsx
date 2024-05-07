@@ -16,7 +16,7 @@ const TextSearch = ({fetchSearchMovies}) => {
   return (
     <form onSubmit={handleSubmit} className='search-form'>
         <input type="text" className="search-input" 
-        placeholder='Search Movies with Full Text Search...' value={query} onChange={
+        placeholder='Search with Full Text Search...' value={query} onChange={
             (e) => setQuery(e.target.value)
         }/>
 

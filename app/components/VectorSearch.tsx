@@ -16,7 +16,7 @@ const VectorSearch = ({fetchVectorSearchMovies}) => {
   return (
     <form onSubmit={handleSubmit} className='search-form'>
         <input type="text" className="search-input" 
-        placeholder='Search Movies with Vector Search...' value={query} onChange={
+        placeholder='Search with Vector Search...' value={query} onChange={
             (e) => setQuery(e.target.value)
         }/>
 
