@@ -12,6 +12,7 @@
     "next": "14.2.2",
     "react": "^18",
     "react-dom": "^18",
+    "react-switch": "^7.0.0",
     "realm": "^12.7.1",
     "realm-web": "^2.0.0"
   },

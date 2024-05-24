@@ -1,0 +1,56 @@
+[
+  {
+    "fullplot": "Thomas A. Anderson is a man living two lives. By day he is an average computer programmer and by night a hacker known as Neo. Neo has always questioned his reality, but the truth is far beyond his imagination. Neo finds himself targeted by the police when he is contacted by Morpheus, a legendary computer hacker branded a terrorist by the government. Morpheus awakens Neo to the real world, a ravaged wasteland where most of humanity have been captured by a race of machines that live off of the humans' body heat and electrochemical energy and who imprison their minds within an artificial reality known as the Matrix. As a rebel against the machines, Neo must return to the Matrix and confront the agents: super-powerful computer programs devoted to snuffing out Neo and the entire human rebellion.",
+    "title": "The Matrix",
+    "highlights": [
+      {
+        "score": { "$numberDouble": "1.401990294456482" },
+        "path": "title",
+        "texts": [
+          { "value": "The ", "type": "text" },
+          { "value": "Matrix", "type": "hit" }
+        ]
+      }
+    ]
+  },
+  {
+    "fullplot": "Six months after the events depicted in The Matrix, Neo has proved to be a good omen for the free humans, as more and more humans are being freed from the matrix and brought to Zion, the one and only stronghold of the Resistance. Neo himself has discovered his superpowers including super speed, ability to see the codes of the things inside the matrix, and a certain degree of precognition. But a nasty piece of news hits the human resistance: 250,000 machine sentinels are digging to Zion and would reach them in 72 hours. As Zion prepares for the ultimate war, Neo, Morpheus and Trinity are advised by the Oracle to find the Keymaker who would help them reach the Source. Meanwhile Neo's recurrent dreams depicting Trinity's death have got him worried and as if it was not enough, Agent Smith has somehow escaped deletion, has become more powerful than before and has chosen Neo as his next target.",
+    "title": "The Matrix Reloaded",
+    "highlights": [
+      {
+        "score": { "$numberDouble": "1.3735517263412476" },
+        "path": "title",
+        "texts": [
+          { "value": "The ", "type": "text" },
+          { "value": "Matrix", "type": "hit" },
+          { "value": " Reloaded", "type": "text" }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Animatrix",
+    "fullplot": "Anthology of nine short anime (Japanese animation) films tied in to the 1999 blockbuster \"The Matrix\" and its sequels. \"Final Flight of the Osiris\": The crew of the hovercraft Osiris attempt to warn their city of an imminent attack. \"The Second Renaissance, Parts 1 & 2\": The story behind the war between man and the machines, how mankind scorched the sky, and the creation of the Matrix. \"Kid's Story\": A teenager is contacted by Neo, and manages to escape the Matrix. \"Program\": Two warriors battle in a samurai training simulation when one decides to betray his crewmates and re-enter the Matrix. \"World Record\": A champion sprinter manages to break free of the Matrix by sheer physical effort during a record attempt. \"Beyond\": A young girl searching for her cat discovers a haunted house caused by a glitch in the system. \"A Detective Story\": Private investigator Ash tracks a hacker named Trinity through the looking glass. \"Matriculated\": A group of humans capture a machine scout and insert it into a 'human matrix'.",
+    "highlights": []
+  },
+  {
+    "fullplot": "Neo discovers that somehow he is able to use his powers in the real world too and that his mind can be freed from his body, as a result of which he finds himself trapped on a train station between the Matrix and the Real World. Meanwhile, Zion is preparing for the oncoming war with the machines with very little chances of survival. Neo's associates set out to free him from The Merovingian since it's believed that he is the One who will end the war between humans and the machines. What they do not know is that there is a threat from a third party, someone who has plans to destroy both the worlds.",
+    "title": "The Matrix Revolutions",
+    "highlights": [
+      {
+        "score": { "$numberDouble": "1.3644318580627441" },
+        "path": "title",
+        "texts": [
+          { "value": "The ", "type": "text" },
+          { "value": "Matrix", "type": "hit" },
+          { "value": " Revolutions", "type": "text" }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Commando",
+    "fullplot": "A retired special agent named John Matrix led an elite unit and has left the armed forces to live in a secluded mountain home with his daughter Jenny. But now he is forced out of retirement when his daughter is kidnapped by a band of thugs intent on revenge! Unbeknownst to Matrix, the members of his former unit are being killed one by one. Even though Matrix' friend General Franklin Kirby gives Matrix armed guards, attackers manage to kidnap Matrix and Jenny. Matrix learns that Bennett, a former member of his Matrix' unit who was presumed dead has kidnapped him to try to force Matrix to do a political assassination for a man called Arius (who calls himself El Presidente), a warlord formerly bested by Matrix who wishes to lead a military coup in his home country. Since Arius will have Jenny killed if Matrix refuses, Matrix reluctantly accepts the demand.",
+    "highlights": []
+  }
+]
